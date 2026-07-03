@@ -2,9 +2,7 @@
   "server_name": "nilsserver",
   "nice_name": "NilsServer",
   "direct_ip": "NilsServer.net",
-  "server_wildcards": [
-    "%.nilsserver.net"
-  ],
+
   "supported_languages": [
     "de"
   ],
