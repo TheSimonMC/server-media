@@ -2,7 +2,6 @@
   "server_name": "nilsserver",
   "nice_name": "NilsServer",
   "direct_ip": "NilsServer.net",
-
   "supported_languages": [
     "de"
   ],
