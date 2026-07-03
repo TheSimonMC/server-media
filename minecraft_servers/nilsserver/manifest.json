@@ -1,0 +1,59 @@
+{
+  "server_name": "nilsserver",
+  "nice_name": "NilsServer",
+  "direct_ip": "NilsServer.net",
+  "server_wildcards": [
+    "%.nilsserver.net"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "gamemodes": {
+    "lobby": {
+      "name": "Lobby",
+      "color": "#F6A100",
+      "command": "/quickjoin lobby",
+      "versions": "1.8<*"
+    },
+    "plotisland": {
+      "name": "PlotIsland",
+      "color": "#55CCFF",
+      "command": "/quickjoin plotisland",
+      "versions": "1.8<*"
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "color": "#5EE86A",
+      "command": "/quickjoin freebuild",
+      "versions": "1.8<*"
+    },
+    "voidsmp": {
+      "name": "VoidSMP",
+      "color": "#8B5CFF",
+      "command": "/quickjoin voidsmp",
+      "versions": "1.8<*"
+    },
+    "nilssmp": {
+      "name": "NilsSMP",
+      "color": "#FFB52E",
+      "command": "/quickjoin nilssmp",
+      "versions": "1.8<*"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#FF5555",
+      "command": "/quickjoin duels",
+      "versions": "1.8<*"
+    }
+  },
+  "brand": {
+    "primary": "#F6A100",
+    "background": "#12100C",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "command_delay": 3000
+}
